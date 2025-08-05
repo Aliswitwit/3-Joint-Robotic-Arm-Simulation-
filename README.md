@@ -26,7 +26,6 @@ This project simulates a **3-joint robotic arm** with:
 ## ▶️ How to Run
 
 1. Install requirements:
-```bash
 pip install numpy matplotlib scipy
 Run the simulation:
 
