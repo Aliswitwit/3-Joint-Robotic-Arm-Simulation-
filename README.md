@@ -38,7 +38,7 @@ Step 087: t=8.60s | θ1=32.05°, θ2=-35.99°, d3=42.42mm | X=182.43, Y=114.21, 
 📊 Actual End-Effector Path vs Original Waypoints
 This plot compares:
 
-<img width="1006" height="1024" alt="image" src="https://github.com/user-attachments/assets/0b9f0d98-3e5b-4256-9482-2ec8ba1bf0ea" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/0b9f0d98-3e5b-4256-9482-2ec8ba1bf0ea" />
 
 
 🔵 Original waypoints (user input)
